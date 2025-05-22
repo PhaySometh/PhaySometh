@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="50%" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"/>
 
 🛠️ I’m currently working on building dynamic web applications using modern technologies.<br>🤝 I’m looking to work on full-stack projects involving JavaScript, Node.js, React, and databases.<br>🙌 I’m looking for help with optimizing backend performance and scaling applications.<br>🌱 I’m currently learning advanced backend development, API integrations, and DevOps practices.<br>💬 Ask me about JavaScript, Express.js, databases, and best practices in full-stack development.<br>⚡ Fun fact: I love solving coding challenges and experimenting with new tech stacks!
 
