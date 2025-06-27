@@ -1,1 +1,1 @@
-![My GIF](https://s8.ezgif.com/tmp/ezgif-86072d519db490.gif)
+![Cover](https://raw.githubusercontent.com/PhaySometh/PhaySometh/main/Cover.gif)
